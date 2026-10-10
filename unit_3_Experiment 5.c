@@ -54,3 +54,55 @@ int main()
 
     return 0;
 }
+
+
+#include <stdio.h>
+
+/* 5.1 No Arguments, No Return Value */
+void area1()
+{
+    float b, h;
+    printf("Enter base and height: ");
+    scanf("%f %f", &b, &h);
+    printf("Area = %.2f\n", 0.5f * b * h);
+}
+
+/* 5.2 Arguments, No Return Value */
+void area2(float b, float h)
+{
+    printf("Area = %.2f\n", 0.5f * b * h);
+}
+
+/* 5.3 No Arguments, Returns a Value */
+float area3()
+{
+    float b, h;
+    printf("Enter base and height: ");
+    scanf("%f %f", &b, &h);
+    return 0.5f * b * h;
+}
+
+/*
+Sample Input:
+10 5
+10 5
+10 5
+10 5
+
+Output:
+5.1 No Arguments, No Return Value
+Enter base and height: 10 5
+Area = 25.00
+
+5.2 Arguments, No Return Value
+Enter base and height: 10 5
+Area = 25.00
+
+5.3 No Arguments, Returns a Value
+Enter base and height: 10 5
+Area = 25.00
+
+5.4 Arguments, Returns a Value
+Enter base and height: 10 5
+Area = 25.00
+*/
