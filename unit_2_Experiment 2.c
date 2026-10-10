@@ -14,3 +14,12 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+7
+
+Output:
+Enter a number: 7
+7 is odd.
+*/
