@@ -15,3 +15,10 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+a + b * c = 20
+(a + b) * c = 30
+a - b / c = 8
+*/
