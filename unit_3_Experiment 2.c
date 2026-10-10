@@ -18,3 +18,15 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+5
+10 20 30 40 50
+
+Output:
+Enter the number of elements: 5
+Enter array elements:
+10 20 30 40 50
+Sum of array elements = 150
+*/
