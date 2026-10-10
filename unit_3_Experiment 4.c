@@ -25,3 +25,12 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+5
+
+Output:
+Enter a number: 5
+Factorial = 120
+*/
