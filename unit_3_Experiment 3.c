@@ -33,3 +33,24 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+2 2
+1 2
+3 4
+5 6
+7 8
+
+Output:
+Enter rows and columns: 2 2
+Enter first matrix:
+1 2
+3 4
+Enter second matrix:
+5 6
+7 8
+Resultant matrix:
+6 8
+10 12
+*/
