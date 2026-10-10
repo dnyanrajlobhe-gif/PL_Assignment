@@ -19,3 +19,10 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+First number = 10
+Second number = 20
+Sum = 30
+*/
