@@ -32,3 +32,26 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+10 20 30
+1.5 2.5 3.5
+A B C
+
+Sample Output:
+Integer Array:
+Value = 10, Address = address_of_a[0]
+Value = 20, Address = address_of_a[1]
+Value = 30, Address = address_of_a[2]
+
+Float Array:
+Value = 1.50, Address = address_of_b[0]
+Value = 2.50, Address = address_of_b[1]
+Value = 3.50, Address = address_of_b[2]
+
+Character Array:
+Value = A, Address = address_of_c[0]
+Value = B, Address = address_of_c[1]
+Value = C, Address = address_of_c[2]
+*/
