@@ -14,3 +14,11 @@ int main()
 
     return 0;
 }
+
+/*
+Output:
+Age = 18
+Marks = 85.500000
+Grade = A
+Percentage = 92.567800
+*/
