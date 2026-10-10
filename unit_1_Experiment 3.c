@@ -13,3 +13,12 @@ int main()
 
     return 0;
 }
+
+/*
+Sample Input:
+10 20 30
+
+Output:
+Enter three numbers: 10 20 30
+Average = 20.00
+*/
